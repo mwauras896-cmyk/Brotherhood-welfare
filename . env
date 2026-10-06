@@ -1,0 +1,8 @@
+DATABASE_URL=postgresql://postgres.cbfwcuuzxwxlutdqagig:[Brotherhood8]@aws-0-eu-central-1.pooler.supabase.com:6543/postgres?sslmode=require
+CONSUMER_KEY=your_daraja_consumer_key
+CONSUMER_SECRET=your_daraja_consumer_secret
+BUSINESS_SHORT_CODE=your_lipa_na_mpesa_shortcode
+PASSKEY=your_daraja_lipa_na_mpesa_passkey
+AT_USERNAME=your_africastalking_username
+AT_API_KEY=your_africastalking_api_key
+PORT=5000
